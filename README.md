@@ -18,13 +18,17 @@ The React Native Coffee Shop App serves as the front-end interface for customers
 
 
 
-1. Install dependencies
+1. Create a folder on your computer. Open bash or terminal in the folder and run the following command to clone the repo: 
+```
+git remote add origin https://github.com/Agbley/mobile-ecommerce-chatbot.git
+```
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
     npx expo start
