@@ -25,7 +25,7 @@ git remote add origin https://github.com/Agbley/mobile-ecommerce-chatbot.git
 2. Install dependencies
 
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    ```
 
 3. Start the app
